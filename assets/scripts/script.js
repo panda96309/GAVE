@@ -10,7 +10,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-630W",
                             "description": "Panneau haute performance avec cellules monocristallines PERC pour un rendement optimal même en faible luminosité.",
-                            "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/640.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "52.47V",
@@ -25,7 +25,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-610W",
                             "description": "Panneau haute efficacité avec technologie demi-cellules pour une meilleure performance à l'ombre.",
-                            "image": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/610.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "48.10V",
@@ -40,7 +40,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-580W",
                             "description": "Panneau performant avec cadre renforcé en aluminium pour une durabilité accrue.",
-                            "image": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/580.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "51.47V",
@@ -55,7 +55,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-560W",
                             "description": "Panneau performant avec cadre renforcé en aluminium pour une durabilité accrue.",
-                            "image": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/560.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "49.62V",
@@ -70,7 +70,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-550W",
                             "description": "Panneau performant avec cadre renforcé en aluminium pour une durabilité accrue.",
-                            "image": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/550.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "49.62V",
@@ -85,7 +85,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-440W",
                             "description": "Panneau performant avec cadre renforcé en aluminium pour une durabilité accrue.",
-                            "image": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/440.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "39.13V",
@@ -100,7 +100,7 @@
                             "nom": "Panneau Solaire Monocristallin",
                             "modele": "BV-100W",
                             "description": "Panneau performant avec cadre renforcé en aluminium pour une durabilité accrue.",
-                            "image": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                            "image": "assets/images/panneaux/100.jpg",
                             "specs": {
                                 "Type de cellule": "mono",
                                 "Voc": "22.45V",

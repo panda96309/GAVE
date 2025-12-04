@@ -1,7 +1,7 @@
 /* Variables et reset optimisé */
 :root {
-  --primary: #ff9800;
-  --primary-dark: #f57c00;
+  --primary: #ff0000;
+  --primary-dark: #cc0000;
   --secondary: #2196f3;
   --dark: #333333;
   --light: #f8f9fa;
@@ -136,26 +136,29 @@ header {
   padding: 1rem 0;
 }
 
+/* Logo (image + texte) */
 .logo {
   display: flex;
   align-items: center;
+  gap: 10px;
 }
 
-.logo i {
-  font-size: 2rem;
-  color: var(--primary);
-  margin-right: 10px;
+.logo-img {
+  width: 45px;  /* Ajuste selon la taille voulue */
+  height: auto;
 }
 
+/* Texte BEVE SOLAR TAMPOUY */
 .logo h1 {
   font-size: 1.8rem;
   font-weight: 700;
   color: var(--dark);
 }
 
-.logo span {
+.logo h1 span {
   color: var(--primary);
 }
+
 
 nav ul {
   display: flex;
@@ -547,7 +550,7 @@ nav ul li a:hover::after {
 }
 
 .hour-item {
-  background-color: rgba(255, 152, 0, 0.1);
+  background-color: rgba(255, 0, 0, 0.1);
   padding: 1rem;
   border-radius: 8px;
   text-align: center;
